@@ -1,1 +1,3 @@
-# ProjectZomboid-node-Gamedig
+# node-GameDig setup for Project Zomboid
+
+
